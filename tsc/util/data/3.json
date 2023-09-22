@@ -1,0 +1,45 @@
+{
+  "HOMELESS_ID": "9ed112c7-1a95-47b4-b3f4-2569ee724ac2",
+  "BIRTHDAY": "1964-07-04",
+  "COMMENTS": [
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Training",
+          "COMMENT_TIME": "2023-03-15 22:47:05",
+          "COMMENT_USER": "Hudson",
+          "COMMENT_ORG": "Addiction Treatment Center"
+        }
+  ],
+  "ENTER_DATE": "2023-12-30 22:47:05",
+  "ENTER_USER": "SYSTEM",
+  "IMAGE": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+  "JOIN_DATE": "2024-02-26",
+  "NAME": "Everett",
+  "ORG5": true,
+  "SERVICE1": true,
+  "ORG_SERVICE": {
+      "ORG5": {
+          "ORG_NAME": "Addiction Treatment Center",
+          "SERVICE1": {
+              "SERVICE_NAME": "Training",
+              "START_DATE": "2024-05-27",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-04-21 22:47:05"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase5",
+                      "TIME": "2023-05-24 22:47:05"
+                  }
+              ],
+              "END_DATE": "2024-04-22"
+          }
+      }
+  },
+  "PERMANENT_DATE": "",
+  "PHONE": "15527944586",
+  "REQUEST": "Need education",
+  "STATUS": "ASSIGNED"
+}

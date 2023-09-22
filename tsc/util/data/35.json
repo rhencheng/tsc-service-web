@@ -1,0 +1,95 @@
+{
+  "HOMELESS_ID": "4c2eee0c-3899-4bfd-8789-5c59c52dec0b",
+  "BIRTHDAY": "1994-01-13",
+  "COMMENTS": [
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Training",
+          "COMMENT_TIME": "2023-06-06 22:47:05",
+          "COMMENT_USER": "Hazel",
+          "COMMENT_ORG": "IBM"
+        }
+        ,
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Addiction Treatment",
+          "COMMENT_TIME": "2022-11-09 22:47:05",
+          "COMMENT_USER": "Hazel",
+          "COMMENT_ORG": "Delaware Healthcare Association"
+        }
+  ],
+  "ENTER_DATE": "2023-02-18 22:47:05",
+  "ENTER_USER": "SYSTEM",
+  "IMAGE": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+  "JOIN_DATE": "2023-06-04",
+  "NAME": "Maizie",
+  "ORG8": true,
+  "ORG4": true,
+  "SERVICE1": true,
+  "SERVICE4": true,
+  "ORG_SERVICE": {
+      "ORG4": {
+          "ORG_NAME": "Delaware Healthcare Association",
+          "SERVICE4": {
+              "SERVICE_NAME": "Addiction Treatment",
+              "START_DATE": "2023-12-10",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-09-12 22:47:05"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase3",
+                      "TIME": "2022-10-24 22:47:05"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-11-13 22:47:05"
+                  }
+              ],
+              "END_DATE": "2023-11-04"
+          }
+      }
+      ,
+      "ORG8": {
+          "ORG_NAME": "IBM",
+          "SERVICE1": {
+              "SERVICE_NAME": "Training",
+              "START_DATE": "2024-02-03",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-09-13 22:47:05"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase5",
+                      "TIME": "2023-05-03 22:47:05"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2024-01-18 22:47:05"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase1",
+                      "TIME": "2023-09-06 22:47:05"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase5",
+                      "TIME": "2023-08-30 22:47:05"
+                  }
+              ],
+              "END_DATE": "2023-11-11"
+          }
+      }
+  },
+  "PERMANENT_DATE": "2023-10-15",
+  "PHONE": "17519271593",
+  "REQUEST": "Need education",
+  "STATUS": "ASSIGNED"
+}
